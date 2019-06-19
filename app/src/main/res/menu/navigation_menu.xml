@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<group android:checkableBehavior="single">
+		
+		<item
+			android:id="@+id/menu_programming"
+			android:checked="true"
+			android:icon="@drawable/book"
+			android:title="Programming Books"/>
+		<item
+			android:id="@+id/menu_graphics"
+			android:icon="@drawable/book"
+			android:title="Graphics"/>
+		<item
+			android:id="@+id/menu_english"
+			android:icon="@drawable/book"
+			
+			android:title="English"/>
+		<item
+			android:id="@+id/menu_novel"
+			android:icon="@drawable/book"
+			
+			android:title="Novel Books"/>
+		
+
+	</group>
+	<group android:id="@+id/menu_bottom" android:checkableBehavior="none"> 
+
+		<item
+			android:id="@+id/navigation_item_contact"
+			android:icon="@drawable/contact"
+			android:title="Contact us" />
+		<item
+			android:id="@+id/navigation_item_facebook"
+			android:icon="@drawable/facebook"
+			android:title="Facebook Page" />
+		<item
+			android:id="@+id/menu_about"
+			android:icon="@drawable/info"
+			android:title="About"/>
+		
+	</group>
+
+
+</menu>
+

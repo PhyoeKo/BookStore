@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="240dp"
+	android:theme="@style/ThemeOverlay.AppCompat.Light"
+	android:background="@color/primary">
+
+	<ImageView
+		android:layout_height="match_parent"
+		android:layout_width="match_parent"
+		android:scaleType="centerCrop"
+		android:src="@drawable/headerimage"
+		android:id="@+id/nnl_ivDrawerHeader"
+		android:layout_gravity="center_horizontal|fill_vertical"
+		android:layout_marginStart="0dp"/>
+
+	<LinearLayout
+		android:layout_height="wrap_content"
+		android:layout_width="wrap_content"
+		android:orientation="vertical"
+		android:layout_gravity="bottom">
+
+		<TextView
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:text="Book Store"
+			android:textColor="#ffffff"
+			android:id="@+id/nnl_tvDrawerHeader"
+			android:gravity="center"
+			android:textSize="20sp"
+			android:textStyle="bold"/>
+
+		<View
+			android:background="?android:attr/dividerVertical"
+			android:layout_height="1dp"
+			android:layout_width="match_parent"
+			android:layout_marginTop="4dp"/>
+
+	</LinearLayout>
+
+</FrameLayout>
+

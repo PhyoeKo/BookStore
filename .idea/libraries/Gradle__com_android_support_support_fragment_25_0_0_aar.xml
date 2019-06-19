@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:support-fragment:25.0.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/47e62e9bf92bec2cb5950148ea699589/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/47e62e9bf92bec2cb5950148ea699589/jars/libs/internal_impl-25.0.0.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/47e62e9bf92bec2cb5950148ea699589/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/47e62e9bf92bec2cb5950148ea699589/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/support-fragment/25.0.0/6b9c3012ccb7f0a28d3a35229b59645f5aa8a3cc/support-fragment-25.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
