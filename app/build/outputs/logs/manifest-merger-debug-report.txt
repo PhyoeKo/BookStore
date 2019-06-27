@@ -1,195 +1,195 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\AndroidProject\Book Store\app\src\main\AndroidManifest.xml:2:1-34:12
-INJECTED from D:\AndroidProject\Book Store\app\src\main\AndroidManifest.xml:2:1-34:12
-INJECTED from D:\AndroidProject\Book Store\app\src\main\AndroidManifest.xml:2:1-34:12
-INJECTED from D:\AndroidProject\Book Store\app\src\main\AndroidManifest.xml:2:1-34:12
-MERGED from [com.android.support:support-v4:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\10c5f29f8b3cf2a7242c09c0aa10fc49\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:design:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\7b15388b1e163961a93f3d1dca37972d\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\ae18f9ccb6315f82b5ed42c8924282e4\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\f5bfde3b2a330e7c9e16b4ad5eecc7cd\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3c8c1a2c484a1dfd7c4fd58b407fa6b2\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\9bd17015f987e5d1013648aee2fb9586\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\983710cd705f631968ed8c5ff3444625\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\c3e8d275a100c765c21fc60869eda668\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\2739764fc6d964163c0fa37b0fc008fd\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\f364c42bbd4ce06fef86bd558219d53d\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:transition:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\6e2949228d0842cd3f56bbec82f6bf0f\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\6a4f4f74c3105ace8c55a0f9060bb981\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:loader:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\06097c1c3fcea1a2439a0e0defb800ca\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\1a1fcd62c011086b1bfc6984932b87cd\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3671feeb471ec95eca73a35d2d154d26\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\b06e3f6804fc9aa2e6cce60f9a39cca5\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\e8f45d65d95e4930abf3d33bcd573381\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:customview:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\6db5e1525ea188aa666682c7bf65c9f3\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\2f19b78e9aeb12bc240de6a43046564b\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3e409dd3d06fb874a7ceea4731858730\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3f7bda72d077f2aa433f7aa36a50faab\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3fa65987a0124b72ff5b8938f84bf287\AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\fd03161d0132f2a0828666509b40cffb\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\30d575a03f208a4824cc6f50e2cdd6e3\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\cf1cf44b7f86430070b59a6a6061c003\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\58faaa0a251a913105c6077e1426f13e\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:print:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\d06b1cf0a452f74827dfcfb19d728b69\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\30d86fd4b292e3b7dc2226fd1dc5081f\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\137ebe2ca486b2c61a9e27d5a6357ac0\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\ce1864e681c5cd0a18d4c47bed65d3d8\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\d8589bb67bd07359fc155f4bc640041c\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\2909303612b6a47008d4d09252eaeabf\AndroidManifest.xml:17:1-22:12
-INJECTED from D:\AndroidProject\Book Store\app\src\main\AndroidManifest.xml:2:1-34:12
-INJECTED from D:\AndroidProject\Book Store\app\src\main\AndroidManifest.xml:2:1-34:12
-INJECTED from D:\AndroidProject\Book Store\app\src\main\AndroidManifest.xml:2:1-34:12
+ADDED from E:\BookStore\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from E:\BookStore\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from E:\BookStore\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from E:\BookStore\app\src\main\AndroidManifest.xml:2:1-34:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\481be185cb94e9e1c6c3eebce4727d07\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4e64400373f132fe6f5b43beba0b3ee4\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\033b846b17d841d24afed9e5772f46d6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\293f8503d2204455cf6df660e1abf715\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\7ce81424f314cdad064a8d052394de0b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\c1c4f4372b9ce6613fe8910ec93c2eb4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\c65386980df0962e8bc0e98c7b5211ee\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\de280c548929e43d8e78cd47d104018d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\a14cf2071dd85ae140339d44db189e3a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\a2a1267da2ba920c4b844275d49fca45\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\140aee5fa7bec0b09aaa388c523b6d78\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\d904babf01c6c8306c309c4e14821918\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\2b78123d280c17b916e8dd074b2f4b71\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\814c444c3755bb61a9cf145a20a5da0b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\776095dddd5f1022e2e5fd8971f886ac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\bbbac7d7d8da986630008841f6276107\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\3e64ea03f64037afcead85a3d9ab721b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\6e94b088fec7cde86323f2459daa3313\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\2d590cc65825fa15cb13db43b85ed056\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\81752c85ba116a314d0ad36067f11ae6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\07d469243a3aba30a9476aa15bdf6089\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\71d551fc0fe5babc8b6ec14906170eb7\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\762d0cacc18a31bd548ca446c8ebaf01\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4ff15562865ad3c16d959b0863bf9fd5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\f2fb305f0e98c36b523cc309b5f91c0b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\9bc3271f20f830877f254e1f287633bb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\cde2a94a63af1273cbc18f8086292997\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\95467b87ec482ac1bc1d9e9468e7c769\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\eb2a74844f2b8b26db498936fcece14c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4b8b70913e6eec6fc5aa2d639718d891\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\145a616cb19e5920a7498526ad8aaf0e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\3e01cb1ff709a601cb2df9a49b51ba38\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\BookStore\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from E:\BookStore\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from E:\BookStore\app\src\main\AndroidManifest.xml:2:1-34:12
 	package
-		ADDED from D:\AndroidProject\Book Store\app\src\main\AndroidManifest.xml:3:5-36
-		INJECTED from D:\AndroidProject\Book Store\app\src\main\AndroidManifest.xml
-		INJECTED from D:\AndroidProject\Book Store\app\src\main\AndroidManifest.xml
+		ADDED from E:\BookStore\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from E:\BookStore\app\src\main\AndroidManifest.xml
+		INJECTED from E:\BookStore\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\AndroidProject\Book Store\app\src\main\AndroidManifest.xml
-		ADDED from D:\AndroidProject\Book Store\app\src\main\AndroidManifest.xml:2:1-34:12
-		INJECTED from D:\AndroidProject\Book Store\app\src\main\AndroidManifest.xml
+		INJECTED from E:\BookStore\app\src\main\AndroidManifest.xml
+		ADDED from E:\BookStore\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from E:\BookStore\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from D:\AndroidProject\Book Store\app\src\main\AndroidManifest.xml
-		ADDED from D:\AndroidProject\Book Store\app\src\main\AndroidManifest.xml:2:1-34:12
-		INJECTED from D:\AndroidProject\Book Store\app\src\main\AndroidManifest.xml
+		INJECTED from E:\BookStore\app\src\main\AndroidManifest.xml
+		ADDED from E:\BookStore\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from E:\BookStore\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\AndroidProject\Book Store\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from E:\BookStore\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from D:\AndroidProject\Book Store\app\src\main\AndroidManifest.xml:4:2-63
+ADDED from E:\BookStore\app\src\main\AndroidManifest.xml:4:2-63
 	android:name
-		ADDED from D:\AndroidProject\Book Store\app\src\main\AndroidManifest.xml:4:19-61
+		ADDED from E:\BookStore\app\src\main\AndroidManifest.xml:4:19-61
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from D:\AndroidProject\Book Store\app\src\main\AndroidManifest.xml:5:2-75
+ADDED from E:\BookStore\app\src\main\AndroidManifest.xml:5:2-75
 	android:name
-		ADDED from D:\AndroidProject\Book Store\app\src\main\AndroidManifest.xml:5:19-73
+		ADDED from E:\BookStore\app\src\main\AndroidManifest.xml:5:19-73
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from D:\AndroidProject\Book Store\app\src\main\AndroidManifest.xml:6:2-76
+ADDED from E:\BookStore\app\src\main\AndroidManifest.xml:6:2-76
 	android:name
-		ADDED from D:\AndroidProject\Book Store\app\src\main\AndroidManifest.xml:6:19-74
+		ADDED from E:\BookStore\app\src\main\AndroidManifest.xml:6:19-74
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from D:\AndroidProject\Book Store\app\src\main\AndroidManifest.xml:7:2-77
+ADDED from E:\BookStore\app\src\main\AndroidManifest.xml:7:2-77
 	android:name
-		ADDED from D:\AndroidProject\Book Store\app\src\main\AndroidManifest.xml:7:19-75
+		ADDED from E:\BookStore\app\src\main\AndroidManifest.xml:7:19-75
 application
-ADDED from D:\AndroidProject\Book Store\app\src\main\AndroidManifest.xml:8:3-32:19
-MERGED from [com.android.support:design:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\7b15388b1e163961a93f3d1dca37972d\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:design:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\7b15388b1e163961a93f3d1dca37972d\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3f7bda72d077f2aa433f7aa36a50faab\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3f7bda72d077f2aa433f7aa36a50faab\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3fa65987a0124b72ff5b8938f84bf287\AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3fa65987a0124b72ff5b8938f84bf287\AndroidManifest.xml:22:5-23:19
+ADDED from E:\BookStore\app\src\main\AndroidManifest.xml:8:3-32:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4e64400373f132fe6f5b43beba0b3ee4\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4e64400373f132fe6f5b43beba0b3ee4\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\07d469243a3aba30a9476aa15bdf6089\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\07d469243a3aba30a9476aa15bdf6089\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\71d551fc0fe5babc8b6ec14906170eb7\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\71d551fc0fe5babc8b6ec14906170eb7\AndroidManifest.xml:22:5-23:19
 	android:appComponentFactory
-		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3f7bda72d077f2aa433f7aa36a50faab\AndroidManifest.xml:22:18-91
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\07d469243a3aba30a9476aa15bdf6089\AndroidManifest.xml:22:18-91
 	android:label
-		ADDED from D:\AndroidProject\Book Store\app\src\main\AndroidManifest.xml:11:9-41
+		ADDED from E:\BookStore\app\src\main\AndroidManifest.xml:11:9-41
 	android:resizeableActivity
-		ADDED from D:\AndroidProject\Book Store\app\src\main\AndroidManifest.xml:14:3-38
+		ADDED from E:\BookStore\app\src\main\AndroidManifest.xml:14:3-38
 	android:icon
-		ADDED from D:\AndroidProject\Book Store\app\src\main\AndroidManifest.xml:10:9-45
+		ADDED from E:\BookStore\app\src\main\AndroidManifest.xml:10:9-43
 	android:allowBackup
-		ADDED from D:\AndroidProject\Book Store\app\src\main\AndroidManifest.xml:9:9-35
+		ADDED from E:\BookStore\app\src\main\AndroidManifest.xml:9:9-35
 	android:theme
-		ADDED from D:\AndroidProject\Book Store\app\src\main\AndroidManifest.xml:13:9-40
+		ADDED from E:\BookStore\app\src\main\AndroidManifest.xml:13:9-40
 activity#pkkl.sample.bookstore.MainActivity
-ADDED from D:\AndroidProject\Book Store\app\src\main\AndroidManifest.xml:15:9-24:20
+ADDED from E:\BookStore\app\src\main\AndroidManifest.xml:15:9-24:20
 	android:screenOrientation
-		ADDED from D:\AndroidProject\Book Store\app\src\main\AndroidManifest.xml:16:4-40
+		ADDED from E:\BookStore\app\src\main\AndroidManifest.xml:16:4-40
 	android:label
-		ADDED from D:\AndroidProject\Book Store\app\src\main\AndroidManifest.xml:18:13-45
+		ADDED from E:\BookStore\app\src\main\AndroidManifest.xml:18:13-45
 	android:name
-		ADDED from D:\AndroidProject\Book Store\app\src\main\AndroidManifest.xml:17:13-62
+		ADDED from E:\BookStore\app\src\main\AndroidManifest.xml:17:13-62
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\AndroidProject\Book Store\app\src\main\AndroidManifest.xml:19:13-23:29
+ADDED from E:\BookStore\app\src\main\AndroidManifest.xml:19:13-23:29
 action#android.intent.action.MAIN
-ADDED from D:\AndroidProject\Book Store\app\src\main\AndroidManifest.xml:20:17-69
+ADDED from E:\BookStore\app\src\main\AndroidManifest.xml:20:17-69
 	android:name
-		ADDED from D:\AndroidProject\Book Store\app\src\main\AndroidManifest.xml:20:25-66
+		ADDED from E:\BookStore\app\src\main\AndroidManifest.xml:20:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\AndroidProject\Book Store\app\src\main\AndroidManifest.xml:22:17-77
+ADDED from E:\BookStore\app\src\main\AndroidManifest.xml:22:17-77
 	android:name
-		ADDED from D:\AndroidProject\Book Store\app\src\main\AndroidManifest.xml:22:27-74
+		ADDED from E:\BookStore\app\src\main\AndroidManifest.xml:22:27-74
 activity#pkkl.sample.bookstore.DetailActivity
-ADDED from D:\AndroidProject\Book Store\app\src\main\AndroidManifest.xml:26:4-28:6
+ADDED from E:\BookStore\app\src\main\AndroidManifest.xml:26:4-28:6
 	android:name
-		ADDED from D:\AndroidProject\Book Store\app\src\main\AndroidManifest.xml:27:5-56
+		ADDED from E:\BookStore\app\src\main\AndroidManifest.xml:27:5-56
 activity#pkkl.sample.bookstore.ViewerActivity
-ADDED from D:\AndroidProject\Book Store\app\src\main\AndroidManifest.xml:29:4-31:6
+ADDED from E:\BookStore\app\src\main\AndroidManifest.xml:29:4-31:6
 	android:name
-		ADDED from D:\AndroidProject\Book Store\app\src\main\AndroidManifest.xml:30:5-56
+		ADDED from E:\BookStore\app\src\main\AndroidManifest.xml:30:5-56
 uses-sdk
-INJECTED from D:\AndroidProject\Book Store\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\AndroidProject\Book Store\app\src\main\AndroidManifest.xml
-INJECTED from D:\AndroidProject\Book Store\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:support-v4:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\10c5f29f8b3cf2a7242c09c0aa10fc49\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\10c5f29f8b3cf2a7242c09c0aa10fc49\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:design:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\7b15388b1e163961a93f3d1dca37972d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:design:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\7b15388b1e163961a93f3d1dca37972d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\ae18f9ccb6315f82b5ed42c8924282e4\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\ae18f9ccb6315f82b5ed42c8924282e4\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\f5bfde3b2a330e7c9e16b4ad5eecc7cd\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\f5bfde3b2a330e7c9e16b4ad5eecc7cd\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3c8c1a2c484a1dfd7c4fd58b407fa6b2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3c8c1a2c484a1dfd7c4fd58b407fa6b2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\9bd17015f987e5d1013648aee2fb9586\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\9bd17015f987e5d1013648aee2fb9586\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\983710cd705f631968ed8c5ff3444625\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\983710cd705f631968ed8c5ff3444625\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\c3e8d275a100c765c21fc60869eda668\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\c3e8d275a100c765c21fc60869eda668\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\2739764fc6d964163c0fa37b0fc008fd\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\2739764fc6d964163c0fa37b0fc008fd\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\f364c42bbd4ce06fef86bd558219d53d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\f364c42bbd4ce06fef86bd558219d53d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\6e2949228d0842cd3f56bbec82f6bf0f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\6e2949228d0842cd3f56bbec82f6bf0f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\6a4f4f74c3105ace8c55a0f9060bb981\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\6a4f4f74c3105ace8c55a0f9060bb981\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\06097c1c3fcea1a2439a0e0defb800ca\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\06097c1c3fcea1a2439a0e0defb800ca\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\1a1fcd62c011086b1bfc6984932b87cd\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\1a1fcd62c011086b1bfc6984932b87cd\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3671feeb471ec95eca73a35d2d154d26\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3671feeb471ec95eca73a35d2d154d26\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\b06e3f6804fc9aa2e6cce60f9a39cca5\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\b06e3f6804fc9aa2e6cce60f9a39cca5\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\e8f45d65d95e4930abf3d33bcd573381\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\e8f45d65d95e4930abf3d33bcd573381\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\6db5e1525ea188aa666682c7bf65c9f3\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\6db5e1525ea188aa666682c7bf65c9f3\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\2f19b78e9aeb12bc240de6a43046564b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\2f19b78e9aeb12bc240de6a43046564b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3e409dd3d06fb874a7ceea4731858730\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3e409dd3d06fb874a7ceea4731858730\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3f7bda72d077f2aa433f7aa36a50faab\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3f7bda72d077f2aa433f7aa36a50faab\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3fa65987a0124b72ff5b8938f84bf287\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3fa65987a0124b72ff5b8938f84bf287\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\fd03161d0132f2a0828666509b40cffb\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\fd03161d0132f2a0828666509b40cffb\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\30d575a03f208a4824cc6f50e2cdd6e3\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\30d575a03f208a4824cc6f50e2cdd6e3\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\cf1cf44b7f86430070b59a6a6061c003\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\cf1cf44b7f86430070b59a6a6061c003\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\58faaa0a251a913105c6077e1426f13e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\58faaa0a251a913105c6077e1426f13e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\d06b1cf0a452f74827dfcfb19d728b69\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\d06b1cf0a452f74827dfcfb19d728b69\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\30d86fd4b292e3b7dc2226fd1dc5081f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\30d86fd4b292e3b7dc2226fd1dc5081f\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\137ebe2ca486b2c61a9e27d5a6357ac0\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\137ebe2ca486b2c61a9e27d5a6357ac0\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\ce1864e681c5cd0a18d4c47bed65d3d8\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\ce1864e681c5cd0a18d4c47bed65d3d8\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\d8589bb67bd07359fc155f4bc640041c\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\d8589bb67bd07359fc155f4bc640041c\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\2909303612b6a47008d4d09252eaeabf\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\2909303612b6a47008d4d09252eaeabf\AndroidManifest.xml:20:5-44
-INJECTED from D:\AndroidProject\Book Store\app\src\main\AndroidManifest.xml
-INJECTED from D:\AndroidProject\Book Store\app\src\main\AndroidManifest.xml
+INJECTED from E:\BookStore\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\BookStore\app\src\main\AndroidManifest.xml
+INJECTED from E:\BookStore\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\481be185cb94e9e1c6c3eebce4727d07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\481be185cb94e9e1c6c3eebce4727d07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4e64400373f132fe6f5b43beba0b3ee4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4e64400373f132fe6f5b43beba0b3ee4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\033b846b17d841d24afed9e5772f46d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\033b846b17d841d24afed9e5772f46d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\293f8503d2204455cf6df660e1abf715\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\293f8503d2204455cf6df660e1abf715\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\7ce81424f314cdad064a8d052394de0b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\7ce81424f314cdad064a8d052394de0b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\c1c4f4372b9ce6613fe8910ec93c2eb4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\c1c4f4372b9ce6613fe8910ec93c2eb4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\c65386980df0962e8bc0e98c7b5211ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\c65386980df0962e8bc0e98c7b5211ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\de280c548929e43d8e78cd47d104018d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\de280c548929e43d8e78cd47d104018d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\a14cf2071dd85ae140339d44db189e3a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\a14cf2071dd85ae140339d44db189e3a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\a2a1267da2ba920c4b844275d49fca45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\a2a1267da2ba920c4b844275d49fca45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\140aee5fa7bec0b09aaa388c523b6d78\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\140aee5fa7bec0b09aaa388c523b6d78\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\d904babf01c6c8306c309c4e14821918\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\d904babf01c6c8306c309c4e14821918\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\2b78123d280c17b916e8dd074b2f4b71\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\2b78123d280c17b916e8dd074b2f4b71\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\814c444c3755bb61a9cf145a20a5da0b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\814c444c3755bb61a9cf145a20a5da0b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\776095dddd5f1022e2e5fd8971f886ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\776095dddd5f1022e2e5fd8971f886ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\bbbac7d7d8da986630008841f6276107\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\bbbac7d7d8da986630008841f6276107\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\3e64ea03f64037afcead85a3d9ab721b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\3e64ea03f64037afcead85a3d9ab721b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\6e94b088fec7cde86323f2459daa3313\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\6e94b088fec7cde86323f2459daa3313\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\2d590cc65825fa15cb13db43b85ed056\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\2d590cc65825fa15cb13db43b85ed056\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\81752c85ba116a314d0ad36067f11ae6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\81752c85ba116a314d0ad36067f11ae6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\07d469243a3aba30a9476aa15bdf6089\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\07d469243a3aba30a9476aa15bdf6089\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\71d551fc0fe5babc8b6ec14906170eb7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\71d551fc0fe5babc8b6ec14906170eb7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\762d0cacc18a31bd548ca446c8ebaf01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\762d0cacc18a31bd548ca446c8ebaf01\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4ff15562865ad3c16d959b0863bf9fd5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4ff15562865ad3c16d959b0863bf9fd5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\f2fb305f0e98c36b523cc309b5f91c0b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\f2fb305f0e98c36b523cc309b5f91c0b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\9bc3271f20f830877f254e1f287633bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\9bc3271f20f830877f254e1f287633bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\cde2a94a63af1273cbc18f8086292997\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\cde2a94a63af1273cbc18f8086292997\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\95467b87ec482ac1bc1d9e9468e7c769\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\95467b87ec482ac1bc1d9e9468e7c769\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\eb2a74844f2b8b26db498936fcece14c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\eb2a74844f2b8b26db498936fcece14c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4b8b70913e6eec6fc5aa2d639718d891\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4b8b70913e6eec6fc5aa2d639718d891\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\145a616cb19e5920a7498526ad8aaf0e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\145a616cb19e5920a7498526ad8aaf0e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\3e01cb1ff709a601cb2df9a49b51ba38\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\3e01cb1ff709a601cb2df9a49b51ba38\AndroidManifest.xml:20:5-44
+INJECTED from E:\BookStore\app\src\main\AndroidManifest.xml
+INJECTED from E:\BookStore\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\AndroidProject\Book Store\app\src\main\AndroidManifest.xml
-		ADDED from D:\AndroidProject\Book Store\app\src\main\AndroidManifest.xml
-		INJECTED from D:\AndroidProject\Book Store\app\src\main\AndroidManifest.xml
+		INJECTED from E:\BookStore\app\src\main\AndroidManifest.xml
+		ADDED from E:\BookStore\app\src\main\AndroidManifest.xml
+		INJECTED from E:\BookStore\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\AndroidProject\Book Store\app\src\main\AndroidManifest.xml
-		ADDED from D:\AndroidProject\Book Store\app\src\main\AndroidManifest.xml
-		INJECTED from D:\AndroidProject\Book Store\app\src\main\AndroidManifest.xml
+		INJECTED from E:\BookStore\app\src\main\AndroidManifest.xml
+		ADDED from E:\BookStore\app\src\main\AndroidManifest.xml
+		INJECTED from E:\BookStore\app\src\main\AndroidManifest.xml

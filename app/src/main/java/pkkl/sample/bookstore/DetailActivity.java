@@ -20,6 +20,9 @@ public class DetailActivity extends AppCompatActivity
 	{
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.detail_layout);
+
+
+
 		tb=(android.support.v7.widget.Toolbar)findViewById(R.id.nnl_toolbar2);
 		setSupportActionBar(tb);
 		getSupportActionBar().setHomeButtonEnabled(true);

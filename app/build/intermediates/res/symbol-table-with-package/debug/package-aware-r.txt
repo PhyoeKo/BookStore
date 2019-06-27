@@ -947,6 +947,7 @@ drawable avd_hide_password
 drawable avd_show_password
 drawable back
 drawable book
+drawable book_icon
 drawable contact
 drawable design_bottom_navigation_item_background
 drawable design_fab_background
@@ -964,6 +965,7 @@ drawable ic_mtrl_chip_close_circle
 drawable info
 drawable mtrl_snackbar_background
 drawable mtrl_tabs_default_indicator
+drawable mybook
 drawable navigation_empty_icon
 drawable notification_action_background
 drawable notification_bg
@@ -977,6 +979,7 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable read
 drawable refresh
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
@@ -1079,10 +1082,14 @@ id masked
 id media_actions
 id menu_about
 id menu_bottom
+id menu_comedy
 id menu_english
 id menu_font
-id menu_graphics
+id menu_health
+id menu_history
+id menu_magazine
 id menu_novel
+id menu_poem
 id menu_programming
 id menu_search
 id message
@@ -1092,8 +1099,6 @@ id mtrl_child_content_container
 id mtrl_internal_children_alpha_tag
 id multiply
 id navigation_header_container
-id navigation_item_contact
-id navigation_item_facebook
 id never
 id nnl_appbar
 id nnl_drawer_layout

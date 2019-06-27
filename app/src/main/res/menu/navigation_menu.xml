@@ -9,9 +9,9 @@
 			android:icon="@drawable/book"
 			android:title="Programming Books"/>
 		<item
-			android:id="@+id/menu_graphics"
+			android:id="@+id/menu_poem"
 			android:icon="@drawable/book"
-			android:title="Graphics"/>
+			android:title="Poem"/>
 		<item
 			android:id="@+id/menu_english"
 			android:icon="@drawable/book"
@@ -22,19 +22,31 @@
 			android:icon="@drawable/book"
 			
 			android:title="Novel Books"/>
-		
+		<item
+			android:id="@+id/menu_health"
+			android:icon="@drawable/book"
+
+			android:title="Health "/>
+		<item
+			android:id="@+id/menu_history"
+			android:icon="@drawable/book"
+
+			android:title="History "/>
+		<item
+			android:id="@+id/menu_magazine"
+			android:icon="@drawable/book"
+
+			android:title="Magazine"/>
+        <item
+            android:id="@+id/menu_comedy"
+            android:icon="@drawable/book"
+
+            android:title="Comedy"/>
+
 
 	</group>
-	<group android:id="@+id/menu_bottom" android:checkableBehavior="none"> 
+	<group android:id="@+id/menu_bottom" android:checkableBehavior="none">
 
-		<item
-			android:id="@+id/navigation_item_contact"
-			android:icon="@drawable/contact"
-			android:title="Contact us" />
-		<item
-			android:id="@+id/navigation_item_facebook"
-			android:icon="@drawable/facebook"
-			android:title="Facebook Page" />
 		<item
 			android:id="@+id/menu_about"
 			android:icon="@drawable/info"

@@ -10,7 +10,7 @@
 		android:layout_height="match_parent"
 		android:layout_width="match_parent"
 		android:scaleType="centerCrop"
-		android:src="@drawable/headerimage"
+		android:src="@drawable/mybook"
 		android:id="@+id/nnl_ivDrawerHeader"
 		android:layout_gravity="center_horizontal|fill_vertical"
 		android:layout_marginStart="0dp"/>
@@ -28,7 +28,7 @@
 			android:textColor="#ffffff"
 			android:id="@+id/nnl_tvDrawerHeader"
 			android:gravity="center"
-			android:textSize="20sp"
+			android:textSize="30sp"
 			android:textStyle="bold"/>
 
 		<View

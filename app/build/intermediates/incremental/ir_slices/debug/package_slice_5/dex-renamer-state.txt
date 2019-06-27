@@ -1,4 +1,4 @@
-#Fri Jun 14 15:14:40 MMT 2019
-base.0=D\:\\AndroidProject\\Book Store\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+#Mon Jun 24 16:18:27 MMT 2019
+base.0=E\:\\BookStore\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
 path.0=classes.dex
 renamed.0=classes.dex

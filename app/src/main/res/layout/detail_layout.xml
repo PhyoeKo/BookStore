@@ -43,10 +43,11 @@
 			android:layout_below="@id/ivDetail"
 			android:orientation="horizontal">
 
-			<Button
+			 ;<Button
 				android:layout_height="wrap_content"
 				android:layout_width="match_parent"
 				android:onClick="readClick"
+				android:background="@drawable/read"
 				android:text="Read"
 				android:layout_weight="1.0"/>
 
@@ -54,6 +55,7 @@
 				android:layout_height="wrap_content"
 				android:layout_width="match_parent"
 				android:onClick="downloadClick"
+				android:background="@drawable/read"
 				android:text="Download"
 				android:layout_weight="1.0"/>
 
